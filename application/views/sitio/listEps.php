@@ -1,18 +1,19 @@
 <!-- Header Section End -->
 
-<div id="contectAjax"></div>
+
 <main class="app-content">
 
-    <ul class="app-breadcrumb breadcrumb">
-        <h3 class="breadcrumb-item">Listado de EPS</h3>
+    <div>
+    <ul class="app-breadcrumb breadcrumb "></class=>
+        <h3>Listado de EPS</h3>
     </ul>
     </div>
     <!-- Categories Section Begin -->
-    <section>
-        <div class="modal-body">
-            <div class="col-md-12">
-                <div class="tile">
-                    <div class="tile-body">
+   
+      <div class="row justify-content-center">
+          <div class="col-lg-10 offset-lg2">
+              <div class="card">
+                    <div class="card-body text-center">    
                         <div class="table-responsive">
                             <table id="example" class="display" style="width:100%">
                                 <thead>
@@ -34,7 +35,7 @@
                                     </tr>
                                 </thead>
                                 <tbody>
-                                    <!-- <tr>
+                                    <tr>
                                         <td>1</td>
                                         <td>hg5856</td>
                                         <td>125452</td>
@@ -54,8 +55,8 @@
                                                 <a class="btn btn-danger" title="Eliminar"><i class="far fa-trash-alt"></i></a>
                                             </div>
                                         </td>
-                                    </tr> -->
-                                    <!-- <tr>
+                                    </tr>
+                                    <tr>
                                             <td>2</td>
                                             <td>hg5856</td>
                                             <td>125452</td>
@@ -92,7 +93,7 @@
                                                 <a class="btn btn-info" title="Editar"><i class="fas fa-pencil-alt"></i></a>
                                                 <a class="btn btn-danger" title="Eliminar"><i class="far fa-trash-alt"></i></a>
                                             </div></td>
-                                        </tr> -->
+                                        </tr>
                                 </tbody>
                             </table>
                         </div>
@@ -100,9 +101,6 @@
                 </div>
             </div>
         </div>
-    </section>
-
-
 </main>
 
 <!-- Categories Section End -->

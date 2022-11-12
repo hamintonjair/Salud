@@ -4,39 +4,51 @@
  
 
     <!-- Categories Section Begin -->
-    <section class="categories">
-        <div class="container">
-            <div class="row">
-                <div class="categories__slider owl-carousel">
-                    <div class="col-lg-3">
-                        <div class="categories__item set-bg" data-setbg="<?php echo base_url(); ?>/assets/template/sitio/img/categories/cat-1.jpg">
-                            <h5><a href="#">Fresh Fruit</a></h5>
-                        </div>
-                    </div>
-                    <div class="col-lg-3">
-                        <div class="categories__item set-bg" data-setbg="<?php echo base_url(); ?>/assets/template/sitio/img/categories/cat-2.jpg">
-                            <h5><a href="#">Dried Fruit</a></h5>
-                        </div>
-                    </div>
-                    <div class="col-lg-3">
-                        <div class="categories__item set-bg" data-setbg="<?php echo base_url(); ?>/assets/template/sitio/img/categories/cat-3.jpg">
-                            <h5><a href="#">Vegetables</a></h5>
-                        </div>
-                    </div>
-                    <div class="col-lg-3">
-                        <div class="categories__item set-bg" data-setbg="<?php echo base_url(); ?>/assets/template/sitio/img/categories/cat-4.jpg">
-                            <h5><a href="#">drink fruits</a></h5>
-                        </div>
-                    </div>
-                    <div class="col-lg-3">
-                        <div class="categories__item set-bg" data-setbg="<?php echo base_url(); ?>/assets/template/sitio/img/categories/cat-5.jpg">
-                            <h5><a href="#">drink fruits</a></h5>
-                        </div>
-                    </div>
-                </div>
+  <div class="row">
+       <div class="col-sm-2" style="padding:20px;">
+       <img src="https://i.ytimg.com/vi/py6WjDmXP_k/maxresdefault.jpg" alt="">
+       </div>           
+        <div class="col-sm-8">
+            <div class="row ">
+               <div id="sitio">
+                <h3 id="titulo">Centros de Salud</h3>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellendus voluptate eligendi mollitia sed fugiat ratione consectetur odit rem soluta nesciunt, vero aperiam quos ea dignissimos eius maxime adipisci quaerat quam.
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto est laudantium perferendis tempore eveniet aspernatur cum. Voluptas, recusandae iste magnam quibusdam necessitatibus iure saepe earum, ex cum qui vero. Adipisci?
+                </p>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellendus voluptate eligendi mollitia sed fugiat ratione consectetur odit rem soluta nesciunt, vero aperiam quos ea dignissimos eius maxime adipisci quaerat quam.
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto est laudantium perferendis tempore eveniet aspernatur cum. Voluptas, recusandae iste magnam quibusdam necessitatibus iure saepe earum, ex cum qui vero. Adipisci?
+                </p>
+               </div>
             </div>
         </div>
-    </section>
+        <div class="col-sm-2" style="padding:20px">       
+        <iframe width="200" height="180" src="https://www.youtube.com/embed/8Lawnkm5vTU" title="Concepto de salud" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       </div>       
+  </div>
+  <div class="row">       
+       <div class="col-sm-2" style="padding:20px">
+       <img src="https://saludtotal.com.co/wp-content/themes/salud-total/assets/img/Soy_empresa_afiliada.png" alt="">
+       </div>      
+        <div class="col-sm-8">
+            <div class="row ">
+               <div id="sitio">              
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellendus voluptate eligendi mollitia sed fugiat ratione consectetur odit rem soluta nesciunt, vero aperiam quos ea dignissimos eius maxime adipisci quaerat quam.
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto est laudantium perferendis tempore eveniet aspernatur cum. Voluptas, recusandae iste magnam quibusdam necessitatibus iure saepe earum, ex cum qui vero. Adipisci?
+                </p>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellendus voluptate eligendi mollitia sed fugiat ratione consectetur odit rem soluta nesciunt, vero aperiam quos ea dignissimos eius maxime adipisci quaerat quam.
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto est laudantium perferendis tempore eveniet aspernatur cum. Voluptas, recusandae iste magnam quibusdam necessitatibus iure saepe earum, ex cum qui vero. Adipisci?
+                </p>
+               </div>
+            </div>
+        </div>
+        <div class="col-sm-2" style="padding:20px">       
+        <iframe width="200" height="180" src="https://www.youtube.com/embed/N5zCULdiQ4E" title="Concepto de Salud" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       </div>       
+  </div>
+
+       
+ 
+   
     <!-- Categories Section End -->
 
 

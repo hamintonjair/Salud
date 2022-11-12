@@ -1,5 +1,8 @@
 <!-- Footer Section Begin -->
-<footer class="footer spad">
+
+
+
+<footer>
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -13,6 +16,7 @@
             </div>
         </div>
     </footer>
+    
     <!-- Footer Section End -->
 
     <!-- Js Plugins -->
@@ -26,7 +30,6 @@
     <script src="<?php echo base_url(); ?>/assets/template/sitio/js/main.js"></script>
     <script src="//cdn.datatables.net/1.13.1/js/jquery.dataTables.min.js"></script>
     <script src="<?php echo base_url(); ?>/assets/template/sitio/js/functionEps.js"></script>
-    //
 
 
 </body>

@@ -1,11 +1,11 @@
 <body>
     <!-- Page Preloder -->
-    <div id="preloder">
+    <!-- <div id="preloder">
         <div class="loader"></div>
-    </div>
+    </div> -->
 
     <!-- Humberger Begin -->
-    <div class="humberger__menu__overlay"></div>
+    <!-- <div class="humberger__menu__overlay"></div>
     <div class="humberger__menu__wrapper">
         <div class="humberger__menu__logo">
             <a href="#"><img src="<?php echo base_url(); ?>/assets/template/sitio/img/logo.png" alt=""></a>
@@ -42,11 +42,11 @@
                 <li>Free Shipping for all Order of $99</li>
             </ul>
         </div>
-    </div>
+    </div> -->
     <!-- Humberger End -->
 
     <!-- Header Section Begin -->
-    <header class="header">
+    <!-- <header class="header">
 
         <div class="container" style="background-color: #0BBBF3;">
             <div class="row">
@@ -76,4 +76,23 @@
                 <i class="fa fa-bars"></i>
             </div>
         </div>
-    </header>
+    </header> -->
+
+    <nav class="navbar navbar-expand-sm navbar-dark" style="background-color: #0099FF;">
+        <button class="navbar-toggler d-lg-none" type="button" data-toggle="collapse" data-target="#collapsibleNavId" aria-controls="collapsibleNavId"
+            aria-expanded="false" aria-label="Toggle navigation"></button>
+        <div class="collapse navbar-collapse" id="collapsibleNavId">
+            <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+                <li class="nav-item active">
+                    <a class="nav-link" href="<?php echo base_url(); ?>">Principal <span class="sr-only">(current)</span></a>
+                </li>               
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="dropdownId" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Centros de salup -EPS</a>
+                    <div class="dropdown-menu" aria-labelledby="dropdownId">
+                        <a class="dropdown-item" href="<?php echo base_url(); ?>Registrar_Eps">Registrar EPS</a>
+                        <a class="dropdown-item" href="<?php echo base_url(); ?>Listar_Eps">Listar EPS</a>
+                    </div>
+                </li>
+            </ul>            
+        </div>
+    </nav>
