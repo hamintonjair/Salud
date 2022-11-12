@@ -15,6 +15,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/js/all.min.js" integrity="sha512-naukR7I+Nk6gp7p5TMA4ycgfxaZBJ7MO5iC3Fp6ySQyKFHOGfpkSZkYVWV5R7u7cfAicxanwYQ5D1e17EfJcMA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.0-beta1/css/bootstrap-grid.min.css" integrity="sha512-QWjMsIpO5eW4+c4ASTEaZ4+eZNZ4YTtSDiu167Rq1Eqw//WlO+rXo4OvZMpyW/ykbN5LFeXmN6N416OzmWo7fA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="//cdn.datatables.net/1.13.1/css/jquery.dataTables.min.css" type="text/css">
+    <link rel="stylesheet" href="//cdn.datatables.net/select/1.5.0/js/select.bulma.min.js" type="text/css">
     <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/template/sitio/css/bootstrap.min.css" type="text/css">
     <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/template/sitio/css/font-awesome.min.css" type="text/css">
     <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/template/sitio/css/elegant-icons.css" type="text/css">

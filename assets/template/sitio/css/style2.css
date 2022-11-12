@@ -31,3 +31,6 @@ footer
   height: 40px;
   color: white;
 }
+tbody, th{
+    text-align: left
+}

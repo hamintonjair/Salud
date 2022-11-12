@@ -5,7 +5,7 @@
                 <div class="row col-lg-8 border">
                         <h4 style="text-align: center; color: black">Registrar Centros de Salud - EPS</h4>
                        <br>       
-                        <form id="formidEps" name="formEps" class="form-horizontal" method="post">
+                        <form action="Sitio/RegistarEps" id="formidEps" name="formEps" class="form-horizontal" method="post">
 
                             <input type="hidden" id="edit_idEps" name="idEps" value=""> <p class="text-primary">Los campos con asterisco (<font color="red">*</font>) son obligatorios.
                         </p>
@@ -36,7 +36,7 @@
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text">Indicador</label>
-                                    <input type="text" class="form-control valid validNumber" id="categoria" name="categoria"  >
+                                    <input type="text" class="form-control valid validNumber" id="Indicador" name="Indicador"  >
                                 </div>
                             </div>
                             <div class="form-row">
@@ -47,22 +47,22 @@
 
                                 <div class="form-group col-md-4">
                                     <label for="text">Unidad(<font color="red">*</font>)</label>
-                                    <input type="text" class="form-control valid validNumber" id="categoria" name="categoria" required="">
+                                    <input type="text" class="form-control valid validNumber" id="unidad" name="unidad" required="">
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text">Fuente</label>
-                                    <input type="text" class="form-control valid validNumber" id="categoria" name="categoria" >
+                                    <input type="text" class="form-control valid validNumber" id="fuente" name="fuente" >
                                 </div>
                             </div>
                             <div class="form-row">
                                 <div class="form-group col-md-4">
                                     <label for="text">Fuente corte(<font color="red">*</font>) </label>
-                                    <input type="text" class="form-control valid validEmail" id="especifique" name="especifique" required="">
+                                    <input type="text" class="form-control valid validEmail" id="fuentecorte" name="fuentecorte" required="">
                                 </div>
 
                                 <div class="form-group col-md-4">
                                     <label for="text">Link fuente</label>
-                                    <input type="text" class="form-control valid validNumber" id="categoria" name="categoria" >
+                                    <input type="text" class="form-control valid validNumber" id="linkfuente" name="linkfuente" >
                                 </div>
 
                             </div>

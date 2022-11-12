@@ -56,9 +56,12 @@ $route['default_controller'] = 'sitio';
 $route['sitio'] = 'sitio/Principal';
 
 /**sitio */
+
 $route['Registrar'] = 'sitio/Registro';
 $route['Listar_Eps'] = 'sitio/ListarEps';
-$route['Registrar_Eps'] = 'sitio/RegistarEps';
+$route['Registrar_Eps'] = 'sitio/Register';
+// $route['eliminar_eps/(:any)'] = 'sitio/eliminarEps/$1';
+// $route['actualizar_eps/(:any)'] = 'sitio/actualizarEps/$1';
 
 
 $route['404_override'] = '';

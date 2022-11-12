@@ -87,7 +87,7 @@
                     <a class="nav-link" href="<?php echo base_url(); ?>">Principal <span class="sr-only">(current)</span></a>
                 </li>               
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="dropdownId" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Centros de salup -EPS</a>
+                    <a class="nav-link dropdown-toggle" href="#" id="dropdownId" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Centros de salud -EPS</a>
                     <div class="dropdown-menu" aria-labelledby="dropdownId">
                         <a class="dropdown-item" href="<?php echo base_url(); ?>Registrar_Eps">Registrar EPS</a>
                         <a class="dropdown-item" href="<?php echo base_url(); ?>Listar_Eps">Listar EPS</a>
